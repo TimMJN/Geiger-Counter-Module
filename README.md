@@ -1,5 +1,5 @@
 # Geiger Counter Module
-This is a fun little synthesizer module which generates decaying pulses based on a Geiger counter. Every ionising particle detected by the counter generates a pulse, meaning that this module can be used as a random event generator. Or, you could play it with anything slightly radioactive, like.. a banana!
+This is a fun little synthesizer module which generates decaying pulses of variable length based on a Geiger counter. Every ionising particle detected by the counter generates a pulse, meaning that this module can be used as a random event generator. Or, you could play it with anything slightly radioactive, like.. a banana!
 
 The Geiger counter used for this project can be found (among other stores) [here](https://www.aliexpress.com/item/4001260288440.html?spm=a2g0s.9042311.0.0.7cb84c4d6dqwrG).
 Its documentation is linked to in this repository.
